@@ -1,0 +1,20 @@
+EVIDENCIA SENA GA5-220501095-AA1-EV04
+Maquetación de la interfaz gráfica en HTML
+
+Contenido:
+- index.html: estructura de la hoja de vida.
+- css/estilos.css: diseño visual y adaptación a pantallas pequeñas.
+- js/app.js: menú móvil y año automático del pie de página.
+- Guia_para_entrega_EV04.pdf: guía documental para revisar y completar con capturas reales.
+
+Cómo abrir:
+1. Extrae la carpeta completa del ZIP.
+2. Abre index.html con Google Chrome o Edge.
+3. Revisa los enlaces del menú y la vista en computador/celular.
+4. No muevas index.html fuera de la carpeta, porque necesita las carpetas css y js.
+
+Antes de entregar:
+- Verifica el estado real de tus estudios y corrige la etiqueta si corresponde.
+- Comprueba que la descripción de experiencia coincide con tus funciones.
+- Toma capturas reales de la página funcionando y agrégalas al PDF.
+- Sigue las instrucciones de recuperación del instructor en Zajuna.
